@@ -1,0 +1,13 @@
+{
+    "name": "@domg-cdn/govflanders-font",
+    "version": "15.0.1",
+    "scripts": {
+        "release": "npm publish"
+    },
+    "publishConfig": {
+        "registry": "https://repo.omgeving.vlaanderen.be/artifactory/api/npm/local-npm/"
+    },
+    "files": [
+        "*"
+    ]
+}

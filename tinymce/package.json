@@ -1,0 +1,13 @@
+{
+    "name": "@domg-cdn/tinymce",
+    "version": "5.10.6",
+    "scripts": {
+        "release": "npm publish"
+    },
+    "publishConfig": {
+        "registry": "https://repo.omgeving.vlaanderen.be/artifactory/api/npm/local-npm/"
+    },
+    "files": [
+        "*"
+    ]
+}
