@@ -29,5 +29,5 @@ Als er nood is aan nieuwe assets omdat er ge-upgrade wordt naar een hogere versi
   -> je dient expliciet op https://repo.omgeving.vlaanderen.be/artifactory/api/npm/local-npm/ in te loggen om te kunnen 
      publiceren
 - nadien dient het 'infra' team op de hoogte gebracht worden, deze zullen er voor zorgen dat de nieuwe versie 
-  beschikbaar komt onder https://cdn.omgeving.vlaanderen.be/domg/wc/tinymce/  
+  beschikbaar komt onder https://cdn.omgeving.vlaanderen.be/domg/tinymce/  
   -> dit zorgt er ook voor dat onder LATEST de nieuwste versie beschikbaar komt

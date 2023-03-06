@@ -1,5 +1,5 @@
 {
-    "name": "@domg-cdn/tinymce",
+    "name": "@domg/tinymce",
     "version": "5.10.6",
     "scripts": {
         "release": "npm publish"
