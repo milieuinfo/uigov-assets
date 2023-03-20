@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+@import "@govflanders/vl-ui-core/src/scss/setting";
+@import "@govflanders/vl-ui-core/src/scss/tool";
+
+// component styles
+@import '@govflanders/vl-ui-search-results/src/scss/search-results';
+
+// npx sass src/lib/component/search-results:dist/src/lib/component/search-results --no-source-map --load-path ./node_modules

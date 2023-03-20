@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+@import "@govflanders/vl-ui-core/src/scss/setting";
+@import "@govflanders/vl-ui-core/src/scss/tool";
+
+// specific
+@import "@govflanders/vl-ui-core/src/scss/element/image";
+
+// component styles
+@import '@govflanders/vl-ui-accordion/src/scss/accordion';
+
+// npx sass src/lib/component/accordion:dist/src/lib/component/accordion --no-source-map --load-path ./node_modules

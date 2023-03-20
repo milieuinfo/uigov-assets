@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+@import "@govflanders/vl-ui-core/src/scss/setting";
+
+// component styles
+@import '@govflanders/vl-ui-toggle/src/scss/toggle';
+
+// npx sass src/lib/component/toggle:dist/src/lib/component/toggle --no-source-map --load-path ./node_modules

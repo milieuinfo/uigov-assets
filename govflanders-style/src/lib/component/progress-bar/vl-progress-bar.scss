@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+@import "@govflanders/vl-ui-core/src/scss/setting";
+@import "@govflanders/vl-ui-core/src/scss/tool";
+
+// specific
+@import "@govflanders/vl-ui-util/src/scss/util/typography";
+
+// component styles
+@import '@govflanders/vl-ui-progress-bar/src/scss/progress-bar';
+
+// npx sass src/lib/component/progress-bar:dist/src/lib/component/progress-bar --no-source-map --load-path ./node_modules

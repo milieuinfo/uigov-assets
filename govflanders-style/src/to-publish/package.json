@@ -1,0 +1,17 @@
+{
+    "name": "@domg/govflanders-style",
+    "version": "14.0.0",
+    "license": "MIT",
+    "scripts": {
+        "release": "npm publish"
+    },
+    "publishConfig": {
+        "registry": "https://repo.omgeving.vlaanderen.be/artifactory/api/npm/local-npm/"
+    },
+    "peerDependencies": {
+        "lit": "2.6.1"
+    },
+    "files": [
+        "*"
+    ]
+}

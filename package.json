@@ -1,10 +1,10 @@
 {
-  "name": "static-file-server",
-  "version": "1.0.0",
-  "scripts": {
-    "serve": "http-server -p 8081 --cors"
-  },
-  "devDependencies": {
-    "http-server": "^14.1.1"
-  }
+    "name": "static-file-server",
+    "version": "1.0.0",
+    "scripts": {
+        "serve": "http-server -p 8081 --cors"
+    },
+    "devDependencies": {
+        "http-server": "^14.1.1"
+    }
 }

@@ -1,0 +1,8 @@
+@import "@govflanders/vl-ui-core/src/scss/setting/colorsRaw";
+@import "@govflanders/vl-ui-core/src/scss/setting/colors";
+
+:root {
+    --vl-border-color: #{$vl-border-color};
+    --vl-text-color: #{$vl-text-color};
+    --vl-action-color: #{$vl-action-color};
+}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+
+// component styles
+@import '@govflanders/vl-ui-wizard/src/scss/wizard';
+
+// npx sass src/lib/component/wizard:dist/src/lib/component/wizard --no-source-map --load-path ./node_modules

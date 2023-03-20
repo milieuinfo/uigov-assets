@@ -1,11 +1,12 @@
-# UiGov CDN Assets
+# UiGov Assets
 
 ## Inleiding
 
-Deze repo bevat de assets die beschikbaar gesteld worden op de CDN van departement omgeving.  
+Deze repo bevat de assets die gedeeld worden: als package en eventueel via de CDN van departement omgeving.  
 Volgende modules maken deel uit van deze repo:
 
 - govflanders-font
+- govflanders-style
 - tinymce
 
 Elke module heeft zijn eigen package.json en wordt geversioneerd beschikbaar gesteld op de CDN.  

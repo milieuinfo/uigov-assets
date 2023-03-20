@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+
+// component styles
+@import '@govflanders/vl-ui-toaster/src/scss/toaster';
+
+// npx sass src/lib/component/toaster:dist/src/lib/component/toaster --no-source-map --load-path ./node_modules

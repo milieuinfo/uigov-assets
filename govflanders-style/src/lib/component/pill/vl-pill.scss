@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+@import "@govflanders/vl-ui-core/src/scss/setting";
+@import "@govflanders/vl-ui-core/src/scss/tool";
+
+// specific
+@import "@govflanders/vl-ui-core/src/scss/generic/iconfont";
+
+// component styles
+@import '@govflanders/vl-ui-pill/src/scss/pill';
+
+// npx sass src/lib/component/pill:dist/src/lib/component/pill --no-source-map --load-path ./node_modules

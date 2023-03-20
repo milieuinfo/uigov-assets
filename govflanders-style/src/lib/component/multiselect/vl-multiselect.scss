@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+// variables & mixins
+@import "../../shared/fonts";
+@import "@govflanders/vl-ui-core/src/scss/setting";
+@import "@govflanders/vl-ui-core/src/scss/tool";
+
+// specific
+@import "@govflanders/vl-ui-core/src/scss/generic/iconfont";
+@import '@govflanders/vl-ui-pill/src/scss/pill';
+
+// component styles
+@import '@govflanders/vl-ui-multiselect/src/scss/multiselect';
+
+// npx sass src/lib/component/multiselect:dist/src/lib/component/multiselect --no-source-map --load-path ./node_modules
