@@ -28,7 +28,10 @@ const wrapCssInJs = (directoryToSearch, jsSuffix, removeOriginal) => {
 };
 
 // post process
-wrapCssInJs('dist', '.css.ts', true);
+wrapCssInJs('dist/src/lib/common', '.css.ts', true);
+wrapCssInJs('dist/src/lib/component', '.css.ts', true);
+wrapCssInJs('dist/src/lib/element', '.css.ts', true);
+// opmerking: de tinymce styling wordt enkel als css aangeboden
 
 // npx sass src/lib:dist/src/lib --no-source-map --load-path ./node_modules
 // node post-process-libs.mjs

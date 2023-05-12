@@ -1,6 +1,5 @@
 {
     "name": "@domg/govflanders-style",
-    "version": "14.0.2",
     "license": "MIT",
     "private": true,
     "devDependencies": {
