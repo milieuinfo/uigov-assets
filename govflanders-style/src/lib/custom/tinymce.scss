@@ -123,4 +123,9 @@
     &.focus {
         background-color: white;
     }
+
+    &.vl-textarea--disabled:hover {
+        border-width: 0;
+        padding: 0;
+    }
 }
