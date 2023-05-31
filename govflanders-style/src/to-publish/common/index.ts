@@ -1,6 +1,7 @@
 export { default as accessibilityStyle } from './accessibility.css';
 export { default as alignStyle } from './align.css';
 export { default as baseStyle } from './base.css';
+export { default as backgroundStyle } from './background.css';
 export { default as colorStyle } from './color.css';
 export { default as elementStyle } from './element.css';
 export { default as gridStyle } from './grid.css';
