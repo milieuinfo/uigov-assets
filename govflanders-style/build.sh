@@ -22,7 +22,7 @@ npx sass src/lib:dist/src/lib --no-source-map --load-path ./node_modules
 # wrap the css in a .ts file
 node post-process-libs.mjs
 # transpile the .ts files
-npx tsc ./dist/**/*.ts --declaration --target es2019
+npx tsc ./dist/**/*.ts --declaration --moduleResolution node --target es2019
 # cleanup op the typescript source files
 rm -rf ./dist/**/*.css.ts
 rm -rf ./dist/**/index.ts

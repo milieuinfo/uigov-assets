@@ -1,6 +1,6 @@
 {
     "name": "@domg/govflanders-style",
-    "version": "14.3.0",
+    "version": "21.0.0",
     "license": "MIT",
     "scripts": {
         "release": "npm publish"
