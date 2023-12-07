@@ -1,6 +1,6 @@
 {
     "name": "@domg/govflanders-font",
-    "version": "15.0.1",
+    "version": "22.0.2",
     "scripts": {
         "release": "npm publish"
     },
@@ -8,6 +8,7 @@
         "registry": "https://repo.omgeving.vlaanderen.be/artifactory/api/npm/local-npm/"
     },
     "files": [
-        "*"
+        "./flanders/*",
+        "./iconfont/*"
     ]
 }
