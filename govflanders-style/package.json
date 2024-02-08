@@ -11,7 +11,6 @@
         "typescript": "5.3.3"
     },
     "dependencies": {
-        "@govflanders-v3/vl-ui-search": "npm:@govflanders/vl-ui-search@3.12.33",
         "@govflanders/vl-ui-accordion": "21.0.2",
         "@govflanders/vl-ui-action-group": "21.0.2",
         "@govflanders/vl-ui-alert": "21.0.2",
