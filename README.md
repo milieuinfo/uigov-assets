@@ -8,6 +8,7 @@ Volgende modules maken deel uit van deze repo:
 - govflanders-font
 - govflanders-style
 - tinymce
+- tinymce-next
 
 Elke module heeft zijn eigen package.json en wordt geversioneerd beschikbaar gesteld op de CDN.  
 De laatste versie van elke module is beschikbaar onder LATEST.
